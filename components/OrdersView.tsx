@@ -26,6 +26,8 @@ const shopItems: ShopItem[] = [
   { id: 'ali3', name: 'ALICORN QUIVER', description: 'Aljava infinita de luz. O acessório definitivo para arqueiros.', price: '18,000', image: 'https://i.imgur.com/tJPczV7.png', tag: 'LEGENDARY' },
   { id: 'ali2', name: 'ALICORN RING', description: 'Anel de pureza divina. Regeneração e skills para Paladins.', price: '65,000', image: 'https://i.imgur.com/QPmS9LQ.png', tag: 'LEGENDARY' },
   { id: 'arb1', name: 'ARBOREAL CROWN', description: 'A coroa mística das profundezas da floresta ancestral. Concede sabedoria e bônus de skills elementais.', price: '22,000', image: 'https://i.imgur.com/jz7oVzm.png', tag: 'LEGENDARY' },
+  { id: 'arb2', name: 'ARBOREAL TOME', description: 'O tomo sagrado da natureza. Amplifica o poder elemental exclusivo para Druids.', price: '22,000', image: 'https://i.imgur.com/lQMU4iM.gif', tag: 'LEGENDARY' },
+  { id: 'arb3', name: 'ARBOREAL RING', description: 'Anel imbuído com a essência da floresta. O acessório BiS para Druids.', price: '65,000', image: 'https://i.imgur.com/aNBJWcv.gif', tag: 'LEGENDARY' },
   { id: 'arc3', name: 'ARCANOMANCER FOLIO', description: 'Grimório de segredos proibidos. Amplifica feitiços elementais.', price: '22,000', image: 'https://i.imgur.com/Zk4Hrpn.png', tag: 'LEGENDARY' },
   { id: 'arc2', name: 'ARCANOMANCER REGALIA', description: 'Vestimenta de gala dos grandes magos. Proteção e mana.', price: '30,000', image: 'https://i.imgur.com/M1eSjMb.png', tag: 'LEGENDARY' },
   { id: 'arc1', name: 'ARCANOMANCER SIGIL', description: 'Selo de maestria arcana. Bônus de Magic Level insano.', price: '62,000', image: 'https://i.imgur.com/L04I5rS.png', tag: 'LEGENDARY' },
